@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FD719712-246F-462C-A927-F0E5A9244E20}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Cinema_Aplicaiton</RootNamespace>
+    <AssemblyName>Cinema Aplicaiton</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Categorypage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Categorypage.Designer.cs">
+      <DependentUpon>Categorypage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="cs_data.cs" />
+    <Compile Include="Detailpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Detailpage.Designer.cs">
+      <DependentUpon>Detailpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Homepage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Homepage.Designer.cs">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LandingPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LandingPage.Designer.cs">
+      <DependentUpon>LandingPage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Paymentpage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paymentpage.Designer.cs">
+      <DependentUpon>Paymentpage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Categorypage.resx">
+      <DependentUpon>Categorypage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detailpage.resx">
+      <DependentUpon>Detailpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Homepage.resx">
+      <DependentUpon>Homepage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LandingPage.resx">
+      <DependentUpon>LandingPage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paymentpage.resx">
+      <DependentUpon>Paymentpage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4bed2d5-c9f5-4327-a64e-24030061cbbc.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Inception _ Movies.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\e95ff7f4-3a76-44dc-8fab-7136322ee89c.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1c7f8217-db41-497b-9c67-7636a5ca492a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\72efb647-2ab1-4227-a176-a02b69dff95e.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d190800f-bdef-41f6-b3a5-799de51f5be9.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22c85034-74dd-49a9-97ed-41f8e7fba9e0.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4bed2d5-c9f5-4327-a64e-24030061cbbc1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4bed2d5-c9f5-4327-a64e-24030061cbbc2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ede130d1-8865-4003-bb51-d11a7a25a603.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\f4bed2d5-c9f5-4327-a64e-24030061cbbc3.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

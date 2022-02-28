@@ -1,0 +1,56 @@
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe.config
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.pdb
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.AssemblyReference.cache
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Properties.Resources.resources
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.GenerateResource.cache
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.CoreCompileInputs.cache
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.exe
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.pdb
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Categorypage.resources
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Detailpage.resources
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Homepage.resources
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Paymentpage.resources
+C:\Users\tuban\source\repos\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.LandingPage.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe.config
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.pdb
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Categorypage.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Detailpage.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Homepage.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.LandingPage.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Paymentpage.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Properties.Resources.resources
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.exe
+C:\Users\PC\Desktop\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe.config
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.pdb
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Categorypage.resources
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Detailpage.resources
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Homepage.resources
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.LandingPage.resources
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Paymentpage.resources
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Properties.Resources.resources
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.exe
+C:\Users\PC\Desktop\Yeni klasör (3)\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.pdb
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe.config
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.exe
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\bin\Debug\Cinema Aplicaiton.pdb
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Categorypage.resources
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Detailpage.resources
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Homepage.resources
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.LandingPage.resources
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Paymentpage.resources
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema_Aplicaiton.Properties.Resources.resources
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.exe
+C:\Users\PC\Desktop\kt\Cinema Aplicaiton\Cinema Aplicaiton\obj\Debug\Cinema Aplicaiton.pdb
